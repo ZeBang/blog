@@ -4,31 +4,6 @@
   
     
     <entry>
-      <title>Movie</title>
-      <link href="/2019/04/09/Favorite%20Movie/"/>
-      <url>/2019/04/09/Favorite%20Movie/</url>
-      
-        <content type="html"><![CDATA[<p>“<a href="https://en.wikipedia.org/wiki/Boyhood_(film" target="_blank" rel="noopener">Boyhood</a>)”   Directed by Richard Linklater, 2014.<br>“<a href="https://en.wikipedia.org/wiki/La_La_Land_(film" target="_blank" rel="noopener">La La Land</a>)”  Directed by Damien Chazelle, 2016.<br>“<a href="https://en.wikipedia.org/wiki/L%C3%A9on:_The_Professional" target="_blank" rel="noopener">Léon: The Professional</a>“ Directed by Luc Besson, 1994.<br>“<a href="https://zh.wikipedia.org/wiki/%E5%A4%A9%E6%B3%A8%E5%AE%9A" target="_blank" rel="noopener">天注定(A Touch Of Sin)</a>“ Directed by 贾樟柯(Jia Zhangke), 2013.<br>“<a href="https://en.wikipedia.org/wiki/Flipped_(2010_film" target="_blank" rel="noopener">Flipped</a>)” Directed by Rob Reiner, 2010.<br>“<a href="https://en.wikipedia.org/wiki/To_Live_(1994_film" target="_blank" rel="noopener">活着(To Live)</a>)” Directed by 张艺谋(Zhang Yimou), 1994.</p>]]></content>
-      
-      
-      <categories>
-          
-          <category> life </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> life </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>New</title>
       <link href="/2019/04/09/Website%20Birthday/"/>
       <url>/2019/04/09/Website%20Birthday/</url>
@@ -46,6 +21,31 @@
         <tags>
             
             <tag> word </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>My Favorite Movie (Not Full List)</title>
+      <link href="/2019/04/09/Favorite%20Movie/"/>
+      <url>/2019/04/09/Favorite%20Movie/</url>
+      
+        <content type="html"><![CDATA[<p>“<a href="https://en.wikipedia.org/wiki/Boyhood_(film)" target="_blank" rel="noopener">Boyhood</a>“,   Directed by Richard Linklater, 2014.<br>“<a href="https://en.wikipedia.org/wiki/La_La_Land_(film)" target="_blank" rel="noopener">La La Land</a>“,  Directed by Damien Chazelle, 2016.<br>“<a href="https://en.wikipedia.org/wiki/L%C3%A9on:_The_Professional" target="_blank" rel="noopener">Léon: The Professional</a>“ Directed by Luc Besson, 1994.<br>“<a href="https://en.wikipedia.org/wiki/A_Touch_of_Sin" target="_blank" rel="noopener">天注定(A Touch Of Sin)</a>“ Directed by 贾樟柯(Jia Zhangke), 2013.<br>“<a href="https://en.wikipedia.org/wiki/Flipped_(2010_film)" target="_blank" rel="noopener">Flipped</a>“ Directed by Rob Reiner, 2010.<br>“<a href="https://en.wikipedia.org/wiki/To_Live_(1994_film)" target="_blank" rel="noopener">活着(To Live)</a>“ Directed by 张艺谋(Zhang Yimou), 1994.</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> life </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> life </tag>
             
         </tags>
       
