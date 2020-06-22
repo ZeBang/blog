@@ -6,15 +6,33 @@
   <link href="/blog/atom.xml" rel="self"/>
   
   <link href="https://lizebang.com/blog/"/>
-  <updated>2020-03-20T03:38:49.536Z</updated>
+  <updated>2020-05-27T16:21:59.083Z</updated>
   <id>https://lizebang.com/blog/</id>
   
-  <author>
-    <name>John Doe</name>
-    
-  </author>
-  
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>On Kronecker Product</title>
+    <link href="https://lizebang.com/blog/2020/05/27/Kronecker%20Product/"/>
+    <id>https://lizebang.com/blog/2020/05/27/Kronecker Product/</id>
+    <published>2020-05-27T16:20:59.000Z</published>
+    <updated>2020-05-27T16:21:59.083Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="The-Kronecker-quotient"><a href="#The-Kronecker-quotient" class="headerlink" title="The Kronecker quotient"></a>The Kronecker quotient</h4>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h4 id=&quot;The-Kronecker-quotient&quot;&gt;&lt;a href=&quot;#The-Kronecker-quotient&quot; class=&quot;headerlink&quot; title=&quot;The Kronecker quotient&quot;&gt;&lt;/a&gt;The Kronecker quotie
+      
+    
+    </summary>
+    
+    
+      <category term="Academic" scheme="https://lizebang.com/blog/tags/Academic/"/>
+    
+  </entry>
   
   <entry>
     <title>Life Start Now</title>
