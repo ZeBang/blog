@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://lizebang.com/blog/2020/05/27/Some%20Algebra%20About%20Tensor/</loc>
+    
+    <lastmod>2020-06-22T01:10:32.075Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://lizebang.com/blog/2020/06/21/Non-Linear-Time-Series/</loc>
     
     <lastmod>2020-06-22T01:07:05.561Z</lastmod>
@@ -12,20 +19,6 @@
     <loc>https://lizebang.com/blog/categories/index.html</loc>
     
     <lastmod>2020-06-22T00:52:34.098Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://lizebang.com/blog/2020/05/27/Kronecker%20Product/</loc>
-    
-    <lastmod>2020-05-27T16:21:59.083Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://lizebang.com/blog/2020/03/19/Life-Start-Now/</loc>
-    
-    <lastmod>2020-03-20T03:38:49.536Z</lastmod>
     
   </url>
   
