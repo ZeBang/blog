@@ -2,6 +2,41 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://lizebang.com/blog/2020/07/23/%E9%9A%8F%E4%BE%BF%E5%86%99%E5%86%99/</loc>
+    
+    <lastmod>2020-07-23T20:47:29.421Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://lizebang.com/blog/2020/05/27/Some%20Algebra%20About%20Tensor/</loc>
+    
+    <lastmod>2020-07-01T00:48:05.816Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://lizebang.com/blog/2020/06/27/A-backtest-framework-based-on-Python/</loc>
+    
+    <lastmod>2020-06-28T00:35:29.700Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://lizebang.com/blog/2020/06/26/Visualization-and-Interpretation/</loc>
+    
+    <lastmod>2020-06-26T19:48:04.795Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://lizebang.com/blog/2020/06/26/My-First-R-packages/</loc>
+    
+    <lastmod>2020-06-26T19:45:45.246Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://lizebang.com/blog/friends/index.html</loc>
     
     <lastmod>2020-06-22T01:59:37.555Z</lastmod>
@@ -12,13 +47,6 @@
     <loc>https://lizebang.com/blog/tags/index.html</loc>
     
     <lastmod>2020-06-22T01:31:44.887Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://lizebang.com/blog/2020/05/27/Some%20Algebra%20About%20Tensor/</loc>
-    
-    <lastmod>2020-06-22T01:10:32.075Z</lastmod>
     
   </url>
   
