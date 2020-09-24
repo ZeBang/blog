@@ -7,7 +7,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   
   
-  <title>A backtest framework based on Python | Zebang</title>
+  <title>Statistical Learning | Zebang</title>
 
   
     <link rel="apple-touch-icon" href="/images/favicon.png">
@@ -89,16 +89,16 @@
   <!-- 文章内容页 url形式：https://yoursite/文章标题/ -->
   <div class="container post-details" id="post-details">
     <div class="post-content">
-      <div class="post-title">A backtest framework based on Python</div>
+      <div class="post-title">Statistical Learning</div>
       <div class="post-attach">
-        <span class="post-pubtime">2020-06-27</span>
+        <span class="post-pubtime">2020-09-11</span>
         
           <span class="post-tags">
             <i class="iconfont icon-tags" title="标签 | tags"></i>
             
             <span class="span--tag">
-              <a href="/blog/tags/Quant/" title="查看 Quant 标签">
-                #Quant
+              <a href="/blog/tags/learning/" title="查看 learning 标签">
+                #learning
               </a>
             </span>
             
@@ -107,28 +107,45 @@
         
       </div>
       <div class="markdown-body">
-        <p><a href="https://ntguardian.wordpress.com/2018/07/17/stock-data-analysis-python-v2/" target="_blank" rel="noopener">https://ntguardian.wordpress.com/2018/07/17/stock-data-analysis-python-v2/</a></p>
+        <h4 id="Karush-Kuhn-Tucker-KKT-Conditions"><a href="#Karush-Kuhn-Tucker-KKT-Conditions" class="headerlink" title="Karush-Kuhn-Tucker (KKT) Conditions"></a>Karush-Kuhn-Tucker (KKT) Conditions</h4><ul>
+<li><p>For the problem (P), assume the functions $f_0,\cdots , f_m$ and $h_1,\cdots , h_p$ are<br>all differentiable with open domains.</p>
+</li>
+<li><p>Suppose $x^∗$ is primal optimal, $(\lambda∗, v∗)$ is dual optimal, and there is zero<br>duality gap, then</p>
+<ul>
+<li>$f_i(x^<em>) \le 0, i=1,\cdots,m$ and $h_i(x^</em>) = 0, i=1,\cdots,p$;</li>
+<li>$v^* \ge 0$;</li>
+<li>$\delta f_0(x^<em>) + \sum_{i=1}^{m} v_i^{</em>} \delta f_i(x^<em>) + \sum_{i=1}^{n} \lambda_i^{</em>} \delta h_i(x^*)=0$;</li>
+<li>v_i^{<em>} f_i(x^</em>) = 0, i=1,\cdots,m$.</li>
+</ul>
+</li>
+<li><p>These four conditions, combined together, are called the<br>Karush-Kuhn-Tucker (KKT) conditions.</p>
+</li>
+<li><p>For the problem (cP), the converse is also true: for (cP), if $x^∗$ and $(\lambda^<em>,v^</em>)$ satisfy the KKT conditions, then $x^∗$ and $(\lambda^<em>, v^</em>)$ are primal and dual optimal, and the duality gap is zero.</p>
+</li>
+<li><p>Consider (cP), and assume Slater’s condition holds. Then the point $x^∗$ is primal optimal if and only if there exists some $(\lambda^<em>, v^</em>)$ that, together with $x^∗$, satisfy the KKT conditions. (Only need to think about the $\to$ direction.)</p>
+</li>
+</ul>
 
       </div>
       
         <div class="prev-or-next">
           <div class="post-foot-next">
             
-              <a href="/blog/2020/06/26/Visualization-and-Interpretation/" target="_self">
+              <a href="/blog/2020/06/27/A-backtest-framework-based-on-Python/" target="_self">
                 <i class="iconfont icon-chevronleft"></i>
                 <span>PREV</span>
               </a>
             
           </div>
           <div class="post-attach">
-            <span class="post-pubtime">2020-06-27</span>
+            <span class="post-pubtime">2020-09-11</span>
             
               <span class="post-tags">
                 <i class="iconfont icon-tags" title="标签 | tags"></i>
                 
                 <span class="span--tag">
-                  <a href="/blog/tags/Quant/" title="查看 Quant 标签">
-                    #Quant
+                  <a href="/blog/tags/learning/" title="查看 learning 标签">
+                    #learning
                   </a>
                 </span>
                 
@@ -138,16 +155,21 @@
           </div>
           <div class="post-foot-prev">
             
-              <a href="/blog/2020/09/11/Statistical Learning/" target="_self">
-                <span>NEXT</span>
-                <i class="iconfont icon-chevronright"></i>
-              </a>
-            
           </div>
         </div>
       
     </div>
     
+  <div class="post-catalog" id="catalog">
+    <div class="title">目录</div>
+    <div class="catalog-content">
+      <ol class="toc"><li class="toc-item toc-level-4"><a class="toc-link" href="#Karush-Kuhn-Tucker-KKT-Conditions"><span class="toc-text">Karush-Kuhn-Tucker (KKT) Conditions</span></a></li></ol>
+    </div>
+  </div>
+
+  <script src="/blog/js/catalog.js"></script>
+
+
 
     
       <div class="comments-container">
