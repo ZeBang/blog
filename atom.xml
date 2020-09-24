@@ -6,7 +6,7 @@
   <link href="/blog/atom.xml" rel="self"/>
   
   <link href="https://lizebang.com/blog/"/>
-  <updated>2020-09-24T00:15:27.765Z</updated>
+  <updated>2020-09-24T00:27:35.334Z</updated>
   <id>https://lizebang.com/blog/</id>
   
   <generator uri="http://hexo.io/">Hexo</generator>
@@ -16,9 +16,9 @@
     <link href="https://lizebang.com/blog/2020/09/11/Statistical%20Learning/"/>
     <id>https://lizebang.com/blog/2020/09/11/Statistical Learning/</id>
     <published>2020-09-11T06:38:18.000Z</published>
-    <updated>2020-09-24T00:15:27.765Z</updated>
+    <updated>2020-09-24T00:27:35.334Z</updated>
     
-    <content type="html"><![CDATA[<h4 id="Karush-Kuhn-Tucker-KKT-Conditions"><a href="#Karush-Kuhn-Tucker-KKT-Conditions" class="headerlink" title="Karush-Kuhn-Tucker (KKT) Conditions"></a>Karush-Kuhn-Tucker (KKT) Conditions</h4><ul><li><p>For the problem (P), assume the functions $f_0,\cdots , f_m$ and $h_1,\cdots , h_p$ are<br>all differentiable with open domains.</p></li><li><p>Suppose $x^∗$ is primal optimal, $(\lambda∗, v∗)$ is dual optimal, and there is zero<br>duality gap, then</p><ul><li>$f_i(x^<em>) \le 0, i=1,\cdots,m$ and $h_i(x^</em>) = 0, i=1,\cdots,p$;</li><li>$v^* \ge 0$;</li><li>$\delta f_0(x^<em>) + \sum_{i=1}^{m} v_i^{</em>} \delta f_i(x^<em>) + \sum_{i=1}^{n} \lambda_i^{</em>} \delta h_i(x^*)=0$;</li><li>v_i^{<em>} f_i(x^</em>) = 0, i=1,\cdots,m$.</li></ul></li><li><p>These four conditions, combined together, are called the<br>Karush-Kuhn-Tucker (KKT) conditions.</p></li><li><p>For the problem (cP), the converse is also true: for (cP), if $x^∗$ and $(\lambda^<em>,v^</em>)$ satisfy the KKT conditions, then $x^∗$ and $(\lambda^<em>, v^</em>)$ are primal and dual optimal, and the duality gap is zero.</p></li><li><p>Consider (cP), and assume Slater’s condition holds. Then the point $x^∗$ is primal optimal if and only if there exists some $(\lambda^<em>, v^</em>)$ that, together with $x^∗$, satisfy the KKT conditions. (Only need to think about the $\to$ direction.)</p></li></ul>]]></content>
+    <content type="html"><![CDATA[<h4 id="Karush-Kuhn-Tucker-KKT-Conditions"><a href="#Karush-Kuhn-Tucker-KKT-Conditions" class="headerlink" title="Karush-Kuhn-Tucker (KKT) Conditions"></a>Karush-Kuhn-Tucker (KKT) Conditions</h4><ul><li><p>For the problem (P), assume the functions $f_0,\cdots , f_m$ and $h_1,\cdots , h_p$ are<br>all differentiable with open domains.</p></li><li><p>Suppose $x^∗$ is primal optimal, $(\lambda∗, v∗)$ is dual optimal, and there is zero<br>duality gap, then</p><ul><li>$f_i(x^<em>) \le 0, i=1,\cdots,m$ and $h_i(x^</em>) = 0, i=1,\cdots,p$;</li><li>$v^* \ge 0$;</li><li>$\delta f<em>0(x^*) + \sum</em>{i=1}^{m} v<em>i^{<em>} \delta f_i(x^</em>) + \sum</em>{i=1}^{n} \lambda_i^{<em>} \delta h_i(x^</em>)=0$;</li><li>v_i^{<em>} f_i(x^</em>) = 0, i=1,\cdots,m$.</li></ul></li><li><p>These four conditions, combined together, are called the<br>Karush-Kuhn-Tucker (KKT) conditions.</p></li><li><p>For the problem (cP), the converse is also true: for (cP), if $x^∗$ and $(\lambda^<em>,v^</em>)$ satisfy the KKT conditions, then $x^∗$ and $(\lambda^<em>, v^</em>)$ are primal and dual optimal, and the duality gap is zero.</p></li><li><p>Consider (cP), and assume Slater’s condition holds. Then the point $x^∗$ is primal optimal if and only if there exists some $(\lambda^<em>, v^</em>)$ that, together with $x^∗$, satisfy the KKT conditions. (Only need to think about the $\to$ direction.)</p></li></ul>]]></content>
     
     <summary type="html">
     
